@@ -29,7 +29,7 @@ import collection8 from './collection8.png';
         id: 3,
         name: 'Striped flutter Sleeve Overlap Collar Jacket',
         image: collection3,
-        new_price: 50.00,
+        new_price: 65.00,
         old_price: 80.50,
     },
     {
