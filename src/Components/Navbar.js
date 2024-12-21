@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 
-export default function () {
+export default function () { 
 
     const [menu ,setMenu] =useState ('shop')
    const handlemenu =() => setMenu (!menu)
